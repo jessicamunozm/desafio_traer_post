@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 0.1rem;
+    margin-top: 3rem;
+}
+#btn {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0 2rem 0;
+}
+
+button {
+    border-radius: 5px;
+    background-color: yellow;
+    border: none;
+    height: 2.5rem;
+    width: 10rem;
+    font-size: 1.2rem;
+}
+
+#post-data {
+    margin: 3rem 6rem 3rem 6rem;
+}
